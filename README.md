@@ -1,3 +1,3 @@
 # News_Sys
-####News_Sys
-A tiny news management system
+* News_Sys
+- A tiny news management system
