@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="NewsSys"
+  id="myeclipse.11156461664"
+  context-root="/mail"
+  j2ee-spec="6.0"
+  archive="NewsSys.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
